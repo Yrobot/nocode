@@ -1,4 +1,4 @@
-# Nocode - Export design to website absolutely free.
+# Nocode - Export design to website absolutely free. [![](https://img.shields.io/badge/chat-discord-000?style=flat-square)](https://discord.gg/regtbczZGe) [![](https://img.shields.io/endpoint?url=https://nocode.yrobot.top/json/version.json&style=flat-square)](https://www.figma.com/community/plugin/1109500134035020563)
 
 致力于成为最简单的将设计转换为网站的工具。无需登录，完全免费。
 
